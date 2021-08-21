@@ -8,7 +8,7 @@ Python .webp converter is an easy-to-use script which converts .jpg and .png fil
 - Pillow
 
 ### Installation
-Just simply clone this repo and install dependencies.
+Just clone this repo and install dependencies.
 
 ### Usage
 ```sh
